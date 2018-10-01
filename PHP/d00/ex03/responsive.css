@@ -1,0 +1,81 @@
+body {
+	background-color:LightSlateGrey;
+	font-family:"Arial";
+}
+
+h1 {
+	text-align:center;
+	font-size:2vw;
+}
+
+div {
+	text-align:center;
+}
+
+p {
+	margin:3px;
+	font-size:1vw;
+}
+		
+p.mass {
+	text-align:right;
+}
+
+h2 {
+	text-align:center;
+	margin:10px;
+	font-size1.5vw;
+}
+
+table {
+	width:100%;
+}
+
+td {
+	width:5.55555%;
+}
+
+td.plum {
+	background-color:plum;
+}
+		
+td.peru {
+	background-color:peru;
+}
+
+td.yellow{
+	background-color:khaki;
+}
+
+td.tan{
+	background-color:tan;
+}
+
+td.sandy {
+	background-color:sandybrown;
+}
+
+td.green {
+	background-color:PaleGreen;
+}
+
+td.sky {
+	background-color:skyblue;
+}
+
+td.lightb {
+	background-color:lightcyan;
+}
+
+td.lightp {
+	background-color:LavenderBlush;
+}
+
+td.ivory {
+	background-color:Ivory;
+}
+
+td.many{
+	background-color:white;
+	text-align:center;
+}
